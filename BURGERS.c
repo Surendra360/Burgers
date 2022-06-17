@@ -2,10 +2,10 @@
 
 int main() 
 {
-    int A,B,t,n;
-    scanf("%d",&t);
+    int A,B,T;
+    scanf("%d",&T);
     
-    for(int i=1;i<=t;i++)
+    for(int i=1;i<=T;i++)
     {
         scanf("%d%d",&A,&B);
         
